@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundImageView">
+        <attr name="shape">
+            <enum name="circle" value="0" />
+            <enum name="fillet" value="1" />
+        </attr>
+        <attr name="radius" format="dimension" />
+        <attr name="cover_color" format="color" />
+    </declare-styleable>
+</resources>
