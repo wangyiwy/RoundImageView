@@ -12,8 +12,9 @@
         app:radius="8dp"
         app:shape="fillet" />
 ```
-####三个属性说明：
+**三个属性说明：**
 shape：circle 表示圆形 fillet表示圆角；
 cover_color:表示遮罩的颜色，不设置就是白色；
 radius：圆角的大小。
+
 ![](/image/sample.png)
